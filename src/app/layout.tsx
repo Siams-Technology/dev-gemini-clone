@@ -9,17 +9,17 @@ const OutfitFont = Outfit({
 
 
 export const metadata: Metadata = {
-  title: "Dev Gemini Clone",
+  title: "Quba AI",
   description: "A Gemini-inspired AI assistant built with Next.js",
   keywords: ["AI", "assistant", "Gemini", "clone", "Next.js"],
-  authors: [{ name: "Your Name" }],
+  authors: [{ name: "Siam" }],
   creator: "Your Name or Company",
   publisher: "Your Name or Company",
   openGraph: {
-    title: "Dev Gemini Clone",
+    title: "Quba AI",
     description: "An advanced GEMINI Clone built with Next.js, featuring enhanced functionalities and faster response times.",
-    url: "https://dev-gemini-clone.vercel.app",
-    siteName: "Dev Gemini Clone",
+    url: "https://quba-ai-gemini-clone.vercel.app",
+    siteName: "QUba AI",
     images: [
       {
         url: "/assets/gemini-logo.svg",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dev Gemini Clone",
+    title: "Quba AI",
     description: "Experience the power of AI with our Gemini-inspired assistant",
     creator: "@yourTwitterHandle",
     images: ["/assets/gemini-banner.svg"],
